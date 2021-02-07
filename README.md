@@ -1,4 +1,6 @@
-### Hi there 👋
+<h2 align="center">👋 Hi there! I'm Kasen.</h2>
+
+Hi, I'm Kasen, a student from China 🇨🇳.
 
 <!--
 **Kasen96/Kasen96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+------
+
+**📝 Latest Blog Posts**
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+------
