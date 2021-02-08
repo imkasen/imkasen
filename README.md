@@ -1,25 +1,14 @@
-<h2 align="center">👋 Hi there! I'm Kasen.</h2>
+<h1 align="center">👋 Hi there! I'm Kasen.</h1>
+<h3 align="center">A student and nerd from China. 🇨🇳</h3>
 
-Hi, I'm Kasen, a student from China 🇨🇳.
 
-<!--
-**Kasen96/Kasen96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 I’m currently learning **AI**, **Compiler** and **Japanese 🇯🇵**
+* 💬 Ask me about **C++** and **Python**
+* ⚡ Fun fact: I love anime and photography 📷
 
 ------
 
-**📝 Latest Blog Posts**
+## 📝 Recent Blog
 
 <!-- BLOG-POST-LIST:START -->
 - [NFA 到 DFA 的转换](https://blog.imkasen.com/nfa-to-dfa.html)
@@ -29,4 +18,19 @@ Here are some ideas to get you started:
 - [一次 Github Action 简单实践](https://blog.imkasen.com/github-action-practice.html)
 <!-- BLOG-POST-LIST:END -->
 
-------
+## 🔨 Languages and Tools
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kasen96&layout=compact&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+<p align="left">
+<img src="./images/cpp.svg" alt="C++" width="25" height="25" />
+<img src="./images/python.svg" alt="Python" width="25" height="25" />
+<img src="./images/javascript.svg" alt="JavaScript" width="25" height="25" />
+<img src="./images/vue.svg" alt="Vue.js" width="25" height="25" />
+<img src="./images/linux.svg" alt="Linux" width="25" height="25" />
+<img src="./images/mysql.svg" alt="MySQL" width="25" height="25" />
+<img src="./images/docker.svg" alt="Docker" width="25" height="25" />
+<img src="./images/git.svg" alt="Git" width="25" height="25" />
+<img src="./images/java.svg" alt="Java" width="25" height="25" />
+</p>
