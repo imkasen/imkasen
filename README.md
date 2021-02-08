@@ -1,12 +1,11 @@
 <h1 align="center">👋 Hi there! I'm Kasen.</h1>
-<h3 align="center">A student and nerd from China. 🇨🇳</h3>
+<h3 align="center">A passionate nerd from China. 🇨🇳</h3>
 
 
 * 🌱 I’m currently learning **AI**, **Compiler** and **Japanese 🇯🇵**
 * 💬 Ask me about **C++** and **Python**
 * ⚡ Fun fact: I love anime and photography 📷
 
-------
 
 ## 📝 Recent Blog
 
@@ -20,7 +19,7 @@
 
 ## 🔨 Languages and Tools
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kasen96&layout=compact&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kasen96&layout=compact&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="left">
