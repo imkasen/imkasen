@@ -38,9 +38,9 @@ progress_bar_of_this_week = gen_progress_bar(progress_of_this_week)
 
 # content
 readme = f"\
-- Year     progress {{ {progress_bar_of_this_year}  }} {round(progress_of_this_year * 100, 2)} %\n\
+- Year progress {{ {progress_bar_of_this_year}  }} {round(progress_of_this_year * 100, 2)} %\n\
 - Month progress {{ {progress_bar_of_this_month}  }} {round(progress_of_this_month * 100, 2)} %\n\
-- Week   progress {{ {progress_bar_of_this_week}  }} {round(progress_of_this_week * 100, 2)} %\n\
+- Week progress {{ {progress_bar_of_this_week}  }} {round(progress_of_this_week * 100, 2)} %\n\
 \n\
 ---\n\
 \n\
