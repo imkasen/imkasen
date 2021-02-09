@@ -1,11 +1,16 @@
 <h1 align="center">👋 Hi there! I'm Kasen.</h1>
-<h3 align="center">A passionate nerd from China. 🇨🇳</h3>
+<h3 align="center">A passionate nerd from China.</h3>
 
 
-* 🌱 I’m currently learning **AI**, **Compiler** and **Japanese 🇯🇵**
+* 🌱 I’m currently learning **AI**, **Compiler** and **Japanese**
 * 💬 Ask me about **C++** and **Python**
 * ⚡ Fun fact: I love anime and photography 📷
 
+
+## ⏳ Life is Short
+
+<!-- Start of Time Progress Bar -->
+<!-- End of Time Progress Bar -->
 
 ## 📝 Recent Blog
 
