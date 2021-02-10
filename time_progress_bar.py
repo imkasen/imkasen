@@ -7,7 +7,7 @@ import calendar
 def gen_progress_bar(progress):
     capacity = 30
     passed_progress_bar_index = int(progress * capacity)
-    return '█' * passed_progress_bar_index + '▁' * (capacity - passed_progress_bar_index)
+    return '█' * passed_progress_bar_index + '░' * (capacity - passed_progress_bar_index)
 
 
 now = datetime.now()
@@ -38,13 +38,13 @@ progress_bar_of_this_week = gen_progress_bar(progress_of_this_week)
 
 # content
 readme = f"\
-- Year progress {{ {progress_bar_of_this_year}  }} {round(progress_of_this_year * 100, 2)} %\n\
-- Month progress {{ {progress_bar_of_this_month}  }} {round(progress_of_this_month * 100, 2)} %\n\
-- Week progress {{ {progress_bar_of_this_week}  }} {round(progress_of_this_week * 100, 2)} %\n\
+``` text\n\
+Year  progress {{ {progress_bar_of_this_year}  }} {round(progress_of_this_year * 100, 2)} %\n\
+Month progress {{ {progress_bar_of_this_month}  }} {round(progress_of_this_month * 100, 2)} %\n\
+Week  progress {{ {progress_bar_of_this_week}  }} {round(progress_of_this_week * 100, 2)} %\n\
+```\n\
 \n\
----\n\
-\n\
-⏰ Updated at {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S %p')} UTC\n\
+⏰ *Updated at {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S %p')} UTC*\n\
 "
 
 # print(readme)
