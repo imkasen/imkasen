@@ -33,8 +33,6 @@ Week  progress { ██████████████████░░░
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kasen96&layout=compact&hide=jupyter%20notebook,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-![Metrics](https://github.com/Kasen96/Kasen96/blob/master/github-metrics.svg)
-
 <p align="left">
 <img src="./images/cpp.svg" alt="C++" width="25" height="25" />
 <img src="./images/python.svg" alt="Python" width="25" height="25" />
