@@ -22,11 +22,11 @@ Week  progress { █░░░░░░░░░░░░░░░░░░░░
 ## 📝 Recent Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [First Set 与 Follow Set](https://blog.imkasen.com/first-and-follow-set.html)
 - [NFA 到 DFA 的转换](https://blog.imkasen.com/nfa-to-dfa.html)
 - [自动机理论之非确定性有限自动机](https://blog.imkasen.com/nondeterminism-finite-automata.html)
 - [自动机理论之正则语法](https://blog.imkasen.com/regular-grammars.html)
 - [入侵检测系统（IDS）与 Snort 实践](https://blog.imkasen.com/ids-snort-practice.html)
-- [一次 Github Action 简单实践](https://blog.imkasen.com/github-action-practice.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔨 Languages and Tools
