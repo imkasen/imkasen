@@ -3,7 +3,6 @@
 
 
 * 🌱 I’m currently learning **AI**, **Compiler** and **Japanese**
-* 💬 Ask me about **C++** and **Python**
 * ⚡ Fun fact: I love anime and photography 📷
 
 
@@ -37,10 +36,11 @@ Week  progress { █████████████████████
 <img src="./images/cpp.svg" alt="C++" width="25" height="25" />
 <img src="./images/python.svg" alt="Python" width="25" height="25" />
 <img src="./images/javascript.svg" alt="JavaScript" width="25" height="25" />
-<img src="./images/vue.svg" alt="Vue.js" width="25" height="25" />
 <img src="./images/linux.svg" alt="Linux" width="25" height="25" />
+<img src="./images/vue.svg" alt="Vue.js" width="25" height="25" />
 <img src="./images/mysql.svg" alt="MySQL" width="25" height="25" />
 <img src="./images/docker.svg" alt="Docker" width="25" height="25" />
 <img src="./images/git.svg" alt="Git" width="25" height="25" />
 <img src="./images/java.svg" alt="Java" width="25" height="25" />
 </p>
+
