@@ -21,11 +21,11 @@ Week  progress { █░░░░░░░░░░░░░░░░░░░░
 ## 📝 Recent Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Deepin V20 深度学习环境搭建](https://blog.imkasen.com/deepen-v20-dl-env.html)
 - [Syntax Analysis](https://blog.imkasen.com/syntax-analysis.html)
 - [First Set 与 Follow Set](https://blog.imkasen.com/first-and-follow-set.html)
 - [NFA 到 DFA 的转换](https://blog.imkasen.com/nfa-to-dfa.html)
 - [自动机理论之非确定性有限自动机](https://blog.imkasen.com/nondeterminism-finite-automata.html)
-- [自动机理论之正则语法](https://blog.imkasen.com/regular-grammars.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔨 Languages and Tools
