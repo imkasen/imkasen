@@ -21,7 +21,7 @@ Week  progress { ████████░░░░░░░░░░░░░
 ## 📝 Recent Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Deepin V20 深度学习环境搭建](https://blog.imkasen.com/deepen-v20-dl-env.html)
+- [Deepin v20 深度学习环境搭建](https://blog.imkasen.com/deepin-v20-dl-env.html)
 - [Syntax Analysis](https://blog.imkasen.com/syntax-analysis.html)
 - [First Set 与 Follow Set](https://blog.imkasen.com/first-and-follow-set.html)
 - [NFA 到 DFA 的转换](https://blog.imkasen.com/nfa-to-dfa.html)
