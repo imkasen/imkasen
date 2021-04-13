@@ -18,7 +18,7 @@ Week  progress { █████░░░░░░░░░░░░░░░░
 ⏰ *Updated at 2021-04-13 00:59:53 AM UTC*
 <!-- End of Time Progress Bar -->
 
-## 📝 Recent Blog
+## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Deepin v20 深度学习环境搭建](https://blog.imkasen.com/deepin-v20-dl-env.html)
@@ -27,6 +27,11 @@ Week  progress { █████░░░░░░░░░░░░░░░░
 - [NFA 到 DFA 的转换](https://blog.imkasen.com/nfa-to-dfa.html)
 - [自动机理论之非确定性有限自动机](https://blog.imkasen.com/nondeterminism-finite-automata.html)
 <!-- BLOG-POST-LIST:END -->
+
+## 📈 Weekly development breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 🔨 Languages and Tools
 
