@@ -32,7 +32,11 @@ Week  progress { ██████░░░░░░░░░░░░░░░
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Other      2 hrs 41 mins   ████████████████░░░░░░░░░   63.96 % 
+JSON       27 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+sh         21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Markdown   14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+YAML       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 ```
 <!--END_SECTION:waka-->
 
