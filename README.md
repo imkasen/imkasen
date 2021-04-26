@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there! I'm Kasen.</h1>
-<h3 align="center">A passionate nerd from China.</h3>
+<h3 align="center">A passionate nerd.</h3>
 
 
 * 🌱 I’m currently learning **AI**, **Compiler** and **Japanese**
