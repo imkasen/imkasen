@@ -21,7 +21,7 @@ Week  progress { ██████████████████▓░░
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Deepin v20 系统配置优化](https://blog.imkasen.com/Deepin-v20-config-opt.html)
+- [Deepin v20 系统配置优化](https://blog.imkasen.com/deepin-v20-config-opt.html)
 - [动态、静态类型与强弱类型](https://blog.imkasen.com/dynamic-static-strong-weak-typing.html)
 - [Deepin v20 深度学习环境搭建](https://blog.imkasen.com/deepin-v20-dl-env.html)
 - [Syntax Analysis](https://blog.imkasen.com/syntax-analysis.html)
