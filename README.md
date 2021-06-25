@@ -21,11 +21,11 @@ Week  progress { ██████████████▒░░░░░░
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [左值与右值，std::swap 与 std::move](https://blog.imkasen.com/lvalue-rvalue-swap-move.html)
 - [Deepin v20 系统配置优化](https://blog.imkasen.com/deepin-v20-config-opt.html)
 - [动态、静态类型与强弱类型](https://blog.imkasen.com/dynamic-static-strong-weak-typing.html)
 - [Deepin v20 深度学习环境搭建](https://blog.imkasen.com/deepin-v20-dl-env.html)
 - [Syntax Analysis](https://blog.imkasen.com/syntax-analysis.html)
-- [First Set 与 Follow Set](https://blog.imkasen.com/first-and-follow-set.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Weekly development breakdown
