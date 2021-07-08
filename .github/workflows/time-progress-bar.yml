@@ -10,14 +10,14 @@ env:
 
 jobs:
   update-progress-bar:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Set up Python3
         uses: actions/setup-python@v2
         with:
-          python-version: 3.8
+          python-version: '3.x'
       - name: Run
         run: python3 ./time_progress_bar.py
       - name: Commit
