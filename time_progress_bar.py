@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 import calendar
 
 
@@ -49,7 +49,7 @@ Month progress {{ {progress_bar_of_this_month}  }} {format(progress_of_this_mont
 Week  progress {{ {progress_bar_of_this_week}  }} {format(progress_of_this_week * 100, '0>5.2f')} %\n\
 ```\n\
 \n\
-⏰ *Updated at {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S %p')} UTC*\n\
+⏰ *Updated at {datetime.utcnow().replace(tzinfo=timezone.utc).astimezone(timezone(timedelta(hours=8))).strftime('%Y-%m-%d %H:%M:%S %p')} UTC+8*\n\
 "
 
 # print(readme)
