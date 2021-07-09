@@ -1,0 +1,40 @@
+name: README Actions
+
+on:
+  push:
+  schedule:
+    - cron: '0 0 * * *'
+
+env:
+  TZ: Asia/Shanghai
+
+jobs:
+  # https://github.com/imkasen/Time-Progress-Bar
+  update-progress-bar:
+    name: Update this repo's README with time progress bar
+    runs-on: ubuntu-latest
+    steps:
+      - uses: imkasen/Time-Progress-Bar@master
+        with:
+          TIME_ZONE: +8
+
+  # https://github.com/gautamkrishnar/blog-post-workflow
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://blog.imkasen.com/atom.xml"
+          committer_email: 41898282+github-actions[bot]@users.noreply.github.com
+          committer_username: GitHub Actions[Bot]
+
+  # https://github.com/athul/waka-readme
+  update-readme-with-wakatime:
+    name: Update this repo's README with weekly development breakdown
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
