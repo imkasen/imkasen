@@ -33,6 +33,8 @@ Week  progress { █████████████████████
 
 <!--START_SECTION:waka-->
 ```text
+Week: 10 July, 2021 - 16 July, 2021
+
 C++          5 hrs 20 mins   ███████▓░░░░░░░░░░░░░░░░░   30.07 % 
 JavaScript   3 hrs 46 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.28 % 
 sh           3 hrs 28 mins   █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
