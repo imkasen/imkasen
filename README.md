@@ -3,6 +3,7 @@
 
 
 * 🌱 I’m currently learning **AI**, **Compiler** and **Japanese**
+* 📫 How to reach me: [CHNZhukc@outlook.com](mailto:CHNZhukc@outlook.com)
 * ⚡ Fun fact: I love anime and photography 📷
 
 
@@ -46,37 +47,41 @@ Markdown     1 hr 16 mins    █▓░░░░░░░░░░░░░░░
 ## 🔨 Languages and Tools
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bulma/bulma-plain.svg" alt="Bulma" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="Gulp" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="25" height="25" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat-square" />
+<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat-square" />
+<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=flat-square" />
+<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white&style=flat-square" />
+<img alt="Bulma" src="https://img.shields.io/badge/-Bulma-00D1B2?logo=Bulma&logoColor=white&style=flat-square" />
+<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=flat-square" />
+<img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery&logoColor=white&style=flat-square" />
+<img alt="gulp" src="https://img.shields.io/badge/-gulp-CF4647?logo=gulp&logoColor=white&style=flat-square" />
+<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=Webpack&logoColor=white&style=flat-square" />
+<img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?logo=NPM&logoColor=white&style=flat-square" />
+<img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=flat-square" />
 </p>
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="25" height="25" />
+<img alt="C++" src="https://img.shields.io/badge/-C++-00599C?logo=C%2B%2B&logoColor=white&style=flat-square" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat-square" />
+<img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=white&style=flat-square" />
+<img alt="GNU Bash" src="https://img.shields.io/badge/-GNU%20Bash-4EAA25?logo=GNU%20Bash&logoColor=white&style=flat-square" />
+<img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-44A833?logo=Anaconda&logoColor=white&style=flat-square" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=flat-square" />
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=flat-square" />
+<img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?logo=NGINX&logoColor=white&style=flat-square" />
+<img alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white&style=flat-square" />
 </p>
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="Jetbrains" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sourcetree/sourcetree-original.svg" alt="SourceTree" width="25" height="25" />
+<img alt="JetBrains" src="https://img.shields.io/badge/-JetBrains-000000?logo=JetBrains&logoColor=white&style=flat-square" />
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=flat-square" />
+<img alt="Vim" src="https://img.shields.io/badge/-Vim-019733?logo=Vim&logoColor=white&style=flat-square" />
+<img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?logo=Jupyter&logoColor=white&style=flat-square" />
+<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=flat-square" />
+<img alt="Github Actions" src="https://img.shields.io/badge/-Github%20Actions-2088FF?logo=Github%20Actions&logoColor=white&style=flat-square" />
+<img alt="VirtualBox" src="https://img.shields.io/badge/-VirtualBox-183A61?logo=VirtualBox&logoColor=white&style=flat-square" />
+<img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?logo=Markdown&logoColor=white&style=flat-square" />
 </p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imkasen&layout=compact&hide=jupyter%20notebook,html,css)](https://github.com/anuraghazra/github-readme-stats) -->
+
