@@ -7,7 +7,7 @@
 * ⚡ Fun fact: I love anime and photography 📷
 
 
-## ⏳ Life is Short
+## ⏳ Life Is Short
 
 <!-- Start of Time Progress Bar -->
 ``` text
@@ -30,7 +30,7 @@ Week  progress { ██████████▒░░░░░░░░░░
 - [动态、静态类型与强弱类型](https://blog.imkasen.com/dynamic-static-strong-weak-typing.html)
 <!-- BLOG-POST-LIST:END -->
 
-## 📈 Weekly development breakdown
+## 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 ```text
