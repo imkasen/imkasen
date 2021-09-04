@@ -34,7 +34,7 @@ Week  progress { █████████████████████
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 August, 2021 - 02 September, 2021
+Week: 28 August, 2021 - 03 September, 2021
 
 C++        4 hrs 20 mins   █████████████░░░░░░░░░░░░   51.61 % 
 Java       3 hrs 9 mins    █████████▒░░░░░░░░░░░░░░░   37.63 % 
