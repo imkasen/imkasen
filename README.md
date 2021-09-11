@@ -34,13 +34,13 @@ Week  progress { █████████████████████
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 September, 2021 - 09 September, 2021
+Week: 04 September, 2021 - 10 September, 2021
 
-Python     1 hr 31 mins    █████████████░░░░░░░░░░░░   51.91 % 
-CSV        50 mins         ███████▒░░░░░░░░░░░░░░░░░   28.81 % 
-sh         11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-Markdown   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-Text       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Python       1 hr 32 mins    ██████████████▒░░░░░░░░░░   57.49 % 
+CSV          51 mins         ████████░░░░░░░░░░░░░░░░░   31.85 % 
+Text         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Markdown     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 ```
 <!--END_SECTION:waka-->
 
