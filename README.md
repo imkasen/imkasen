@@ -34,7 +34,7 @@ Week  progress { █████████████████████
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 September, 2021 - 10 September, 2021
+Week: 05 September, 2021 - 11 September, 2021
 
 Python       1 hr 32 mins    ██████████████▒░░░░░░░░░░   57.49 % 
 CSV          51 mins         ████████░░░░░░░░░░░░░░░░░   31.85 % 
