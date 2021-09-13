@@ -23,11 +23,11 @@ Week  progress { █████████████████████
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Systematic reviews and Literature reviews](https://blog.imkasen.com/slr-lr.html)
 - [Ubuntu 20.04 配置](https://blog.imkasen.com/ubuntu-2004-config.html)
 - [智能指针的使用](https://blog.imkasen.com/smart-ptr.html)
 - [红米 AC2100 刷机记录](https://blog.imkasen.com/rm-ac2100-router.html)
 - [左值与右值，std::swap 与 std::move](https://blog.imkasen.com/lvalue-rvalue-swap-move.html)
-- [Deepin v20 系统配置优化](https://blog.imkasen.com/deepin-v20-config-opt.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Weekly Development Breakdown
