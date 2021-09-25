@@ -34,13 +34,13 @@ Week  progress { ███████████████████▒░
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 September, 2021 - 23 September, 2021
+Week: 18 September, 2021 - 24 September, 2021
 
-C++           4 hrs 48 mins   ███████████▓░░░░░░░░░░░░░   46.12 % 
-C             4 hrs 18 mins   ██████████▒░░░░░░░░░░░░░░   41.27 % 
-Markdown      31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-Objective-C   26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-Makefile      18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+C++           4 hrs 57 mins   ███████████▒░░░░░░░░░░░░░   45.99 % 
+C             3 hrs 38 mins   ████████▒░░░░░░░░░░░░░░░░   33.81 % 
+Go            56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Markdown      29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Objective-C   24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 ```
 <!--END_SECTION:waka-->
 
