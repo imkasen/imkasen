@@ -2,7 +2,7 @@
 <h3 align="center">A passionate nerd.</h3>
 
 
-* 🌱 I’m currently learning **AI**, **Compiler** and **Japanese**
+* 🌱 I’m currently learning **Go**, **Compiler** and **Japanese**
 * 📫 How to reach me: [CHNZhukc@outlook.com](mailto:CHNZhukc@outlook.com)
 * ⚡ Fun fact: I love anime and photography 📷
 
