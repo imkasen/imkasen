@@ -34,7 +34,7 @@ Week  progress { █▓░░░░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 September, 2021 - 25 September, 2021
+Week: 20 September, 2021 - 26 September, 2021
 
 C++           4 hrs 57 mins   ████████████▒░░░░░░░░░░░░   48.98 % 
 C             3 hrs 10 mins   ████████░░░░░░░░░░░░░░░░░   31.40 % 
