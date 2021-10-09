@@ -34,13 +34,13 @@ Week  progress { ██████████████████▓░░
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 October, 2021 - 07 October, 2021
+Week: 02 October, 2021 - 08 October, 2021
 
-C++          4 hrs 8 mins    █████████████████████▓░░░   86.06 % 
-Markdown     23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-Makefile     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-CMake        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+C++          4 hrs 8 mins    ████████████████████▒░░░░   81.38 % 
+Markdown     23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+CMake        13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Makefile     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 ```
 <!--END_SECTION:waka-->
 
