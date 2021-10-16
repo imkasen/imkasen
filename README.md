@@ -34,13 +34,13 @@ Week  progress { ██████████████████▓░░
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 October, 2021 - 14 October, 2021
+Week: 09 October, 2021 - 15 October, 2021
 
-Go         2 hrs 57 mins   █████████▒░░░░░░░░░░░░░░░   37.20 % 
-Docker     2 hrs 7 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.82 % 
-Markdown   1 hr 12 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-C++        17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-Makefile   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Go         2 hrs 57 mins   ████████░░░░░░░░░░░░░░░░░   31.74 % 
+Docker     2 hrs 7 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.89 % 
+Markdown   1 hr 31 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Makefile   52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Other      28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 ```
 <!--END_SECTION:waka-->
 
