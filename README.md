@@ -55,9 +55,6 @@ Other      28 mins         █▒░░░░░░░░░░░░░░░�
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=flat-square" />
 <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery&logoColor=white&style=flat-square" />
 <img alt="gulp" src="https://img.shields.io/badge/-gulp-CF4647?logo=gulp&logoColor=white&style=flat-square" />
-<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=Webpack&logoColor=white&style=flat-square" />
-<img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?logo=NPM&logoColor=white&style=flat-square" />
-<img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=flat-square" />
 </p>
 
 <p align="left">
@@ -69,7 +66,6 @@ Other      28 mins         █▒░░░░░░░░░░░░░░░�
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=flat-square" />
 <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=flat-square" />
 <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?logo=NGINX&logoColor=white&style=flat-square" />
-<img alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white&style=flat-square" />
 </p>
 
 <p align="left">
