@@ -23,11 +23,11 @@ Week  progress { ██████████▒░░░░░░░░░░
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [用于评估并行计算性能的指标](https://blog.imkasen.com/parallel-performance-metrics.html)
 - [C++ 并发编程（从 C++11 到 C++17）[转载]](https://blog.imkasen.com/cpp-concurrency.html)
 - [Systematic reviews and Literature reviews](https://blog.imkasen.com/slr-lr.html)
 - [Ubuntu 20.04 配置](https://blog.imkasen.com/ubuntu-2004-config.html)
 - [智能指针的使用](https://blog.imkasen.com/smart-ptr.html)
-- [红米 AC2100 刷机记录](https://blog.imkasen.com/rm-ac2100-router.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Weekly Development Breakdown
