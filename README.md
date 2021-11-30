@@ -11,12 +11,12 @@
 
 <!-- Start of Time Progress Bar -->
 ``` text
-Year  progress { ███████████████████████████▒░░  } 91.06 %
-Month progress { ████████████████████████████▒░  } 94.55 %
-Week  progress { █▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░  } 05.22 %
+Year  progress { ███████████████████████████▒░░  } 91.33 %
+Month progress { █████████████████████████████▒  } 97.89 %
+Week  progress { █████▓░░░░░░░░░░░░░░░░░░░░░░░░  } 19.53 %
 ```
 
-⏰ *Updated at 2021-11-29 08:45:51 AM UTC+8*
+⏰ *Updated at 2021-11-30 08:48:08 AM UTC+8*
 
 <!-- End of Time Progress Bar -->
 
