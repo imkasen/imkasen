@@ -34,7 +34,7 @@ Week  progress { █▓░░░░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 December, 2021 - 11 December, 2021
+Week: 06 December, 2021 - 12 December, 2021
 
 Markdown   2 hrs 45 mins   ███████████░░░░░░░░░░░░░░   44.21 % 
 C++        2 hrs 15 mins   █████████░░░░░░░░░░░░░░░░   36.04 % 
