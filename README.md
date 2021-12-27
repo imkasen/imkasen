@@ -34,7 +34,7 @@ Week  progress { █▓░░░░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 December, 2021 - 25 December, 2021
+Week: 20 December, 2021 - 26 December, 2021
 
 C++          2 hrs 17 mins   ██████████░░░░░░░░░░░░░░░   40.01 % 
 Go           1 hr 22 mins    ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
