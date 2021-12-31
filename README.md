@@ -23,11 +23,11 @@ Week  progress { ██████████████████▓░░
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [自定义 README Badges](https://blog.imkasen.com/custom-readme-badges.html)
 - [编程字体的对比、选择与定制](https://blog.imkasen.com/coding-fonts-configuration.html)
 - [用于评估并行计算性能的指标](https://blog.imkasen.com/parallel-performance-metrics.html)
 - [C++ 并发编程（从 C++11 到 C++17）[转载]](https://blog.imkasen.com/cpp-concurrency.html)
 - [Systematic reviews and Literature reviews](https://blog.imkasen.com/slr-lr.html)
-- [Ubuntu 20.04 配置](https://blog.imkasen.com/ubuntu-2004-config.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Weekly Development Breakdown
