@@ -34,10 +34,11 @@ Week  progress { █▓░░░░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 December, 2021 - 01 January, 2022
+Week: 27 December, 2021 - 02 January, 2022
 
-Markdown   39 mins         ███████████████▓░░░░░░░░░   62.43 % 
-YAML       22 mins         █████████░░░░░░░░░░░░░░░░   35.96 % 
+Markdown   39 mins         ███████████████▒░░░░░░░░░   61.37 % 
+YAML       22 mins         ████████▓░░░░░░░░░░░░░░░░   35.27 % 
+VimL       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 ```
 <!--END_SECTION:waka-->
 
