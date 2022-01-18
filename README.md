@@ -44,6 +44,7 @@ C          9 mins          ▒░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
+<!--
 ## 🔨 Languages and Tools
 
 <p align="left">
@@ -78,6 +79,7 @@ C          9 mins          ▒░░░░░░░░░░░░░░░░�
 <img alt="VirtualBox" src="https://img.shields.io/badge/-VirtualBox-183A61?logo=VirtualBox&logoColor=white&style=flat-square" />
 <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?logo=Markdown&logoColor=white&style=flat-square" />
 </p>
+-->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imkasen&layout=compact&hide=jupyter%20notebook,html,css)](https://github.com/anuraghazra/github-readme-stats) -->
 
