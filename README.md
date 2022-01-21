@@ -34,7 +34,7 @@ Week  progress { ██████████████████▓░░
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 January, 2022 - 19 January, 2022
+Week: 14 January, 2022 - 20 January, 2022
 
 C++        5 hrs 27 mins   ███████████▓░░░░░░░░░░░░░   46.15 % 
 Bash       3 hrs 35 mins   ███████▓░░░░░░░░░░░░░░░░░   30.29 % 
