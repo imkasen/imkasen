@@ -34,13 +34,13 @@ Week  progress { ██████████▒░░░░░░░░░░
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 January, 2022 - 24 January, 2022
+Week: 19 January, 2022 - 25 January, 2022
 
-C++        3 hrs 47 mins   ████████░░░░░░░░░░░░░░░░░   32.24 % 
-Bash       3 hrs 38 mins   ███████▓░░░░░░░░░░░░░░░░░   30.98 % 
-Markdown   1 hr 24 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Text       1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-YAML       22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Text         4 hrs 49 mins   ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+C++          4 hrs 38 mins   ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+Bash         3 hrs 53 mins   █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+ObjectiveC   1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Markdown     1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
 ```
 <!--END_SECTION:waka-->
 
