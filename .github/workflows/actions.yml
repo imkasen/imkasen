@@ -9,7 +9,7 @@ env:
   TZ: Asia/Shanghai
 
 jobs:
-  # https://github.com/imkasen/Time-Progress-Bar
+  # https://github.com/imkasen/time-progress-bar
   update-progress-bar:
     name: Update this repo's README with time progress bar
     runs-on: ubuntu-latest
