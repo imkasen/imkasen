@@ -14,7 +14,7 @@ jobs:
     name: Update this repo's README with time progress bar
     runs-on: ubuntu-latest
     steps:
-      - uses: imkasen/Time-Progress-Bar@master
+      - uses: imkasen/time-progress-bar@master
         with:
           TIME_ZONE: +8
 
