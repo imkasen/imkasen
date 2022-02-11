@@ -34,7 +34,7 @@ Week  progress { ██████████████████▓░░
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 February, 2022 - 09 February, 2022
+Week: 04 February, 2022 - 10 February, 2022
 
 C++        7 hrs 48 mins   ██████████░░░░░░░░░░░░░░░   39.67 % 
 Go         5 hrs 41 mins   ███████▒░░░░░░░░░░░░░░░░░   28.89 % 
