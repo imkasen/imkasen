@@ -34,13 +34,13 @@ Week  progress { █▓░░░░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 February, 2022 - 19 February, 2022
+Week: 14 February, 2022 - 20 February, 2022
 
-C++          8 hrs 20 mins   ███████████░░░░░░░░░░░░░░   44.27 % 
-Go           2 hrs 45 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-VimL         2 hrs 35 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-Markdown     2 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-ObjectiveC   1 hr 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+C++          7 hrs 34 mins   ██████████░░░░░░░░░░░░░░░   39.59 % 
+Go           4 hrs 9 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.77 % 
+Markdown     2 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+VimL         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+ObjectiveC   1 hr 40 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
 ```
 <!--END_SECTION:waka-->
 
