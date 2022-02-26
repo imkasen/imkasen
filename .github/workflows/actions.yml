@@ -11,7 +11,7 @@ env:
 jobs:
   # https://github.com/imkasen/time-progress-bar
   update-progress-bar:
-    name: Update this repo's README with time progress bar
+    name: Update the time progress bar
     runs-on: ubuntu-latest
     steps:
       - uses: imkasen/time-progress-bar@master
@@ -20,7 +20,7 @@ jobs:
 
   # https://github.com/gautamkrishnar/blog-post-workflow
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update the latest blog posts
     if: ${{ always() }}
     needs: update-progress-bar # sequence
     runs-on: ubuntu-latest
@@ -34,7 +34,7 @@ jobs:
 
   # https://github.com/athul/waka-readme
   update-readme-with-wakatime:
-    name: Update this repo's README with weekly development breakdown
+    name: Update the weekly development breakdown
     if: ${{ always() }}
     needs: [update-progress-bar, update-readme-with-blog] # sequence
     runs-on: ubuntu-latest
