@@ -35,14 +35,14 @@ Week  progress { █████▓░░░░░░░░░░░░░░░
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 February 2022 - To: 27 February 2022
+From: 21 February 2022 - To: 28 February 2022
 
-C++              12 hrs 9 mins   ██████████████▒░░░░░░░░░░   57.24 %
-ObjectiveC       2 hrs 17 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
-Python           2 hrs 10 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
-C                1 hr 54 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
-CMake            53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-Markdown         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+C++              14 hrs 37 mins  ███████████████░░░░░░░░░░   60.29 %
+ObjectiveC       2 hrs 38 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
+Python           2 hrs 10 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
+C                1 hr 59 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
+CMake            52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+Markdown         43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
 ```
 
 <!--END_SECTION:waka-->
