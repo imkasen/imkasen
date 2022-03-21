@@ -1,10 +1,6 @@
-<h1 align="center">👋 Hi there! I'm Kasen.</h1>
-<h3 align="center">A passionate nerd.</h3>
+<h1>👋 Hi there! Nice to see you.</h1>
 
-
-* 🌱 I’m currently learning **Go**, **Compiler** and **Japanese**
-* 📫 How to reach me: [CHNZhukc@outlook.com](mailto:CHNZhukc@outlook.com)
-* ⚡ Fun fact: I love anime and photography 📷
+Welcome, my name is Kasen. I’m currently learning Go and Japanese. And I love anime and photography.
 
 
 ## ⏳ Life Is Short
