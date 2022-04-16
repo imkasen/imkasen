@@ -31,10 +31,11 @@ Week  progress { █████████████████████
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 April 2022 - To: 14 April 2022
+From: 08 April 2022 - To: 15 April 2022
 
-C++          3 hrs 55 mins   ███████████████████░░░░░░   76.37 %
-Other        25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
+C++          3 hrs 32 mins   ████████████████▓░░░░░░░░   67.06 %
+Lua          26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
+Other        25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
 ```
 
 <!--END_SECTION:waka-->
