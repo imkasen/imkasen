@@ -7,12 +7,12 @@ Welcome, my name is Kasen. I’m currently learning Go and Japanese. And I love 
 
 <!-- Start of Time Progress Bar -->
 ``` text
-Year  progress { ██████████████▓░░░░░░░░░░░░░░░  } 48.87 %
-Month progress { ███████████████████████████▒░░  } 91.31 %
-Week  progress { █████▓░░░░░░░░░░░░░░░░░░░░░░░░  } 19.89 %
+Year  progress { ██████████████▓░░░░░░░░░░░░░░░  } 49.15 %
+Month progress { ████████████████████████████▒░  } 94.63 %
+Week  progress { ██████████▒░░░░░░░░░░░░░░░░░░░  } 34.12 %
 ```
 
-⏰ *Updated at 2022-06-28 09:25:15 AM UTC+8*
+⏰ *Updated at 2022-06-29 09:19:47 AM UTC+8*
 
 <!-- End of Time Progress Bar -->
 
