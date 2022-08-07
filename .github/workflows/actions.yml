@@ -17,6 +17,7 @@ jobs:
       - uses: imkasen/time-progress-bar@master
         with:
           TIME_ZONE: +8
+          BLOCKS: ⣀⣤⣶⣿
 
   # https://github.com/gautamkrishnar/blog-post-workflow
   update-readme-with-blog:
@@ -44,4 +45,3 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           SHOW_TITLE: true
-          SHOW_TOTAL: true
