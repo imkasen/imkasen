@@ -40,7 +40,7 @@ jobs:
     needs: [update-progress-bar, update-readme-with-blog] # sequence
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: joe733/waka-readme@workshop
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
