@@ -3,7 +3,7 @@ name: README Actions
 on:
   push:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 1 * * *'
 
 env:
   TZ: Asia/Shanghai
@@ -40,7 +40,7 @@ jobs:
     needs: [update-progress-bar, update-readme-with-blog] # sequence
     runs-on: ubuntu-latest
     steps:
-      - uses: joe733/waka-readme@workshop
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
