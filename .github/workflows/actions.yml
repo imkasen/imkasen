@@ -3,7 +3,7 @@ name: README Actions
 on:
   push:
   schedule:
-    - cron: '0 1 * * *'
+    - cron: '0 22 * * *'
 
 env:
   TZ: Asia/Shanghai
