@@ -19,11 +19,11 @@ Week  progress { ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Locks, Mutexes, and Semaphores: Types of Synchronization Objects [翻译]](https://blog.imkasen.com/locks-mutexes-semaphores.html)
 - [Python logging 日志模块配置](https://blog.imkasen.com/python-logging.html)
 - [WSL2 安装配置](https://blog.imkasen.com/wsl2-config.html)
 - [自定义 README Badges](https://blog.imkasen.com/custom-readme-badges.html)
 - [编程字体的定制](https://blog.imkasen.com/coding-fonts-configuration.html)
-- [用于评估并行计算性能的指标](https://blog.imkasen.com/parallel-performance-metrics.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Weekly Development Breakdown
