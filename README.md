@@ -1,7 +1,6 @@
 <h1>👋 Hi there! Nice to see you.</h1>
 
-Welcome, my name is Kasen. I’m currently learning Go and Japanese. And I love anime and photography.
-
+Welcome, my name is Kasen. I love watching animation and movies.
 
 ## ⏳ Life is Short
 
