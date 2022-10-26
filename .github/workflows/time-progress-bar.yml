@@ -11,7 +11,7 @@ jobs:
     name: Update the time progress bar
     runs-on: ubuntu-latest
     steps:
-      - uses: imkasen/time-progress-bar@master
+      - uses: imkasen/time-progress-bar@main
         with:
           TIME_ZONE: +8
-          BLOCKS: ⣀⣤⣶⣿
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
