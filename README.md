@@ -1,6 +1,6 @@
 <h1>👋 Hi there! Nice to see you.</h1>
 
-Welcome, my name is Kasen. I love watching animation and movies.
+Welcome, my name is Kasen. I love watching animations and movies.
 
 ## ⏳ Life is Short
 
