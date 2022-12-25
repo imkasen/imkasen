@@ -18,7 +18,7 @@ Week  progress { ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [从 Notion 迁移到 Obsidian](https://blog.imkasen.com/from-notion-to-obsidian/)
+- [从 Notion 到 Obsidian](https://blog.imkasen.com/from-notion-to-obsidian/)
 - [CS144 Lab4: the summit &lpar;TCP in full&rpar;](https://blog.imkasen.com/cs144-lab4/)
 - [CS144 Lab3: the TCP sender](https://blog.imkasen.com/cs144-lab3/)
 - [CS144 Lab2: the TCP receiver](https://blog.imkasen.com/cs144-lab2/)
