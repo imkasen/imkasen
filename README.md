@@ -18,7 +18,7 @@ Week  progress { ⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Scoop 上手使用指南](https://blog.imkasen.com/scoop-config/)
+- [Scoop 上手指南](https://blog.imkasen.com/scoop-guide/)
 - [Bitcask 存储引擎：一个用于快速键/值数据的日志结构哈希表](https://blog.imkasen.com/bitcask-introduction/)
 - [从 Notion 到 Obsidian](https://blog.imkasen.com/from-notion-to-obsidian/)
 - [CS144 Lab4: the summit &lpar;TCP in full&rpar;](https://blog.imkasen.com/cs144-lab4/)
