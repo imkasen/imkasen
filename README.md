@@ -18,11 +18,11 @@ Week  progress { ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [如何使用 LangChain 进行记忆管理](https://blog.imkasen.com/langchain-memory-management/)
 - [如何使用 LangChain 提示词模板](https://blog.imkasen.com/langchain-prompt-templates/)
 - [LangChain 快速入门](https://blog.imkasen.com/langchain-quickstart/)
 - [使用 Vosk 实现语音识别](https://blog.imkasen.com/vosk-api-speech-recognition/)
 - [利用 Coze 搭建问答机器人](https://blog.imkasen.com/build-coze-robot/)
-- [一些中文语音合成服务的使用体验](https://blog.imkasen.com/cn-tts-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Weekly Development Breakdown
