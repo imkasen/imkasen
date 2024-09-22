@@ -18,11 +18,11 @@ Week  progress { ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [使用 PyTorch 构建 VGG16](https://blog.imkasen.com/pytorch-vgg16/)
 - [使用 PyTorch 构建 AlexNet](https://blog.imkasen.com/pytorch-alexnet/)
 - [使用 PyTorch 构建 LeNet-5](https://blog.imkasen.com/pytorch-lenet5/)
 - [tracert 命令与基于 Go 的简单实现](https://blog.imkasen.com/tracert-with-go-implementation/)
 - [ping 命令与基于 Go 的简单实现](https://blog.imkasen.com/ping-with-go-implementation/)
-- [在 dify.ai 上搭建 LLM 工作流](https://blog.imkasen.com/build-workflow-on-dify/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Weekly Development Breakdown
