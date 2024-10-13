@@ -18,11 +18,11 @@ Week  progress { ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [自定义 VS Code 主题](https://blog.imkasen.com/customize-vs-code-theme/)
 - [使用 PyTorch 构建 GoogLeNet](https://blog.imkasen.com/pytorch-googlenet/)
 - [使用 PyTorch 构建 VGG16](https://blog.imkasen.com/pytorch-vgg16/)
 - [使用 PyTorch 构建 AlexNet](https://blog.imkasen.com/pytorch-alexnet/)
 - [使用 PyTorch 构建 LeNet-5](https://blog.imkasen.com/pytorch-lenet5/)
-- [tracert 命令与基于 Go 的简单实现](https://blog.imkasen.com/tracert-with-go-implementation/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Weekly Development Breakdown
