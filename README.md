@@ -19,10 +19,10 @@ Week  progress { ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <!-- BLOG-POST-LIST:START -->
 - [基于 IMDb 数据集的情感分类：使用 PyTorch 训练词嵌入并可视化](https://blog.imkasen.com/pytorch-word-embeddings/)
-- [使用 PyTorch 构建 ResNet](https://blog.imkasen.com/pytorch-resnet/)
+- [ResNet 模型迁移学习：Oxford-IIIT Pet 数据集上的 PyTorch 实践](https://blog.imkasen.com/pytorch-resnet-transfer-learning/)
 - [自定义 VS Code 主题](https://blog.imkasen.com/customize-vs-code-theme/)
-- [使用 PyTorch 构建 GoogLeNet](https://blog.imkasen.com/pytorch-googlenet/)
-- [使用 PyTorch 构建 VGG16](https://blog.imkasen.com/pytorch-vgg16/)
+- [基于 PyTorch 的 GoogleNet 模型构建与 Imagenette 图像识别](https://blog.imkasen.com/pytorch-googlenet/)
+- [基于 PyTorch 的 VGG 模型构建与 Imagenette 图像识别](https://blog.imkasen.com/pytorch-vgg16/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Weekly Development Breakdown
