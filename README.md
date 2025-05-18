@@ -18,11 +18,11 @@ Week  progress { ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LLM 中的 SwiGLU 激活函数](https://blog.imkasen.com/swiglu-activation-function/)
+- [使用 PyTorch 实现 Transformer 结构（三）：Transformer 封装与参数量计算](https://blog.imkasen.com/pytorch-transformer-end/)
+- [使用 PyTorch 实现 Transformer 结构（二）：编解码器](https://blog.imkasen.com/pytorch-transformer-encoder-decoder/)
+- [使用 PyTorch 实现 Transformer 结构（一）：多头注意力机制](https://blog.imkasen.com/pytorch-transformer-mha/)
 - [ResNet 模型迁移学习：Oxford-IIIT Pet 数据集上的 PyTorch 实践](https://blog.imkasen.com/pytorch-resnet-transfer-learning/)
-- [自定义 VS Code 主题](https://blog.imkasen.com/customize-vs-code-theme/)
-- [基于 PyTorch 的 GoogleNet 模型构建与 Imagenette 图像识别](https://blog.imkasen.com/pytorch-googlenet/)
-- [基于 PyTorch 的 VGG 模型构建与 Imagenette 图像识别](https://blog.imkasen.com/pytorch-vgg16/)
-- [基于 PyTorch 的 AlexNet 模型构建与 Imagenette 图像识别](https://blog.imkasen.com/pytorch-alexnet/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Weekly Development Breakdown
