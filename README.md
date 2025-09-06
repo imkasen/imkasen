@@ -18,11 +18,11 @@ Week  progress { ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vibe Coding：AI 时代软件工程的新范式](https://blog.imkasen.com/vibe-coding-in-prod/)
 - [Workflows or Agents：如何选择和构建智能体](https://blog.imkasen.com/how-we-build-effective-agents/)
 - [使用 LangGraph 构建翻译智能体](https://blog.imkasen.com/build-translation-agent-using-langgraph/)
 - [使用 LangGraph 构建 ReAct Agent](https://blog.imkasen.com/build-react-agent-using-langgraph/)
 - [使用 LangGraph 构建带记忆的对话 Agent](https://blog.imkasen.com/build-chat-agent-with-memory-using-langgraph/)
-- [[译] Unsloth - LoRA 超参数指南](https://blog.imkasen.com/lora-hyperparameters-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Weekly Development Breakdown
