@@ -6,12 +6,12 @@ Welcome, my name is Kasen. I love watching animations and movies.
 
 <!-- Start of Time Progress Bar -->
 ``` text
-Year  progress { ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀  } 96.17 %
-Month progress { ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀  } 54.92 %
-Week  progress { ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀  } 43.22 %
+Year  progress { ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀  } 96.45 %
+Month progress { ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀  } 58.15 %
+Week  progress { ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀  } 57.52 %
 ```
 
-⏰ *Updated at 2025-12-18 00:36:29 AM UTC+8*
+⏰ *Updated at 2025-12-19 00:37:31 AM UTC+8*
 
 <!-- End of Time Progress Bar -->
 
